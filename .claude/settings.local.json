@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/USER/.claude/plugins/**)",
+      "WebFetch(domain:stodio.webflow.io)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
